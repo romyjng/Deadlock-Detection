@@ -1,2 +1,2 @@
 # Deadlock-Detection
-Python made deadlock detection
+deadlock detection
