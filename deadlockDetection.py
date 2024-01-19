@@ -1,6 +1,4 @@
 # project2 - deadlock detection
-# 2018310018 정찬휘
-# 사유: C언어 사용법을 배우지 않아 파이썬으로 대체하여 작성해 보았습니다. 감사합니다.
 
 f= open('C:\\Users\sprig\Desktop\input.txt', 'r')       # 바탕화면에 저장된 'input.txt'파일 읽기
 
